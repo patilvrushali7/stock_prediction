@@ -23,9 +23,6 @@ This project aims to predict high (HH) or low (LL) stock prices based on histori
 - Feature engineering (lagged features, rolling statistics)
 - Deployment using Streamlit
 
-## Models Explored
-![Screenshot (63)](https://github.com/patilvrushali7/stock_prediction/assets/93309661/45ce699e-620f-4633-9eff-3d9bcbc3d8e4)
-
 - **Random Forest**: Used for initial prediction due to its robustness with noisy data.
 - **Logistic Regression**: Explored for its interpretability and efficiency with binary classification tasks.
 
@@ -59,6 +56,9 @@ cd stock_prediction
 
 3. Run the Streamlit app:
    streamlit run app.py
+
+## Models Explored
+![Screenshot (63)](https://github.com/patilvrushali7/stock_prediction/assets/93309661/45ce699e-620f-4633-9eff-3d9bcbc3d8e4)
 
 
 
