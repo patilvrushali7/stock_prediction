@@ -39,6 +39,8 @@ stock_prediction/
  ## Accuracy and Evaluation Metrics
 
 The accuracy metric measures the overall correctness of the predictions made by the models.
+The model achieved approximately 68% accuracy on the test dataset.
+
 
 
 ## Deployment
