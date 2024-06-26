@@ -32,11 +32,15 @@ This project aims to predict high (HH) or low (LL) stock prices based on histori
 
 The project structure is organized as follows:
 stock_prediction/
-│
-├── app.py # Streamlit application for model deployment
-├── model.py.ipynb # Jupyter notebook containing model training and feature engineering
-├── random_forest_model.pkl # Pickled file of the trained Random Forest model
-└── requirements.txt # Python dependencies required to run the project
+
+- app.py # Streamlit application for model deployment
+- model.py.ipynb # Jupyter notebook containing model training and feature engineering
+- random_forest_model.pkl # Pickled file of the trained Random Forest model
+- requirements.txt # Python dependencies required to run the project
+
+ ## Accuracy and Evaluation Metrics
+
+The accuracy metric measures the overall correctness of the predictions made by the models.
 
 
 ## Deployment
